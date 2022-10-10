@@ -1,6 +1,6 @@
 # Bss free software foundation 
 
-![Logo](https://s25.picofile.com/file/8453936542/BSS_Logo_2_.png)
+![Logo](https://s24.picofile.com/file/8453936918/logo.png)
 
 
 ## social media
