@@ -9,7 +9,7 @@ our channel in [Eitaa](https://eitaa.com/bssinc)
 
 our channel in [Gap](https://gap.im/bssinc)
 
-our channel in [Igap](https://igap.net/bssinc)
+our channel in [soroush+](https://splus.ir/bssinc)
 
 our channel in [Telegram](https://t.me/bssinc)
 
