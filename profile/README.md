@@ -17,4 +17,4 @@ our channel in [Telegram](https://t.me/bssinc)
 
 our page in [Rubika](https://rubika.ir/bss_inc)
 
-our channel in [Chatzy](t.chatzy.ir/bssinc)
+our channel in [Chatzy](https://t.chatzy.ir/bssinc)
