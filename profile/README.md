@@ -5,16 +5,12 @@
 
 ## social media
 
-our page in [wekhed](https://wekhed.ir/bssinc)
+our pages and channels in:
 
-our channel in [Eitaa](https://eitaa.com/bssinc)
-
-our channel in [Gap](https://gap.im/bssinc)
-
-our channel in [soroush+](https://splus.ir/bssinc)
-
-our channel in [Telegram](https://t.me/bssinc)
-
-our page in [Rubika](https://rubika.ir/bss_inc)
-
-our channel in [Chatzy](https://t.chatzy.ir/bssinc)
+- [wekhed](https://wekhed.ir/bssinc)
+- [Eitaa](https://eitaa.com/bssinc)
+- [Gap](https://gap.im/bssinc)
+- [soroush+](https://splus.ir/bssinc)
+- [Telegram](https://t.me/bssinc)
+- [Rubika](https://rubika.ir/bss_inc)
+- [Chatzy](https://t.chatzy.ir/bssinc)
