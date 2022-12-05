@@ -6,7 +6,7 @@
 ## social media
 
 our pages and channels in:
-
+- [Virasty](https://virasty.com/bssinc)
 - [wekhed](https://wekhed.ir/bssinc)
 - [Eitaa](https://eitaa.com/bssinc)
 - [Gap](https://gap.im/bssinc)
